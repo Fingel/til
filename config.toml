@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "Today I Learned"
-baseURL = "https://til.austinriba.com"
+baseURL = "https://til.austinriba.com/"
 theme = "nofancy"
 pygmentsuseclasses = false
 PygmentsCodeFences = true
