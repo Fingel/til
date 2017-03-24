@@ -1,0 +1,13 @@
+languageCode = "en-us"
+title = "Today I Learned"
+baseURL = "https://til.austinriba.com"
+theme = "nofancy"
+pygmentsuseclasses = false
+PygmentsCodeFences = true
+pygmentsstyle = "tango"
+[params]
+    # See themes/nofancy/static/highlight/styles for available options
+    # i.e. "default", "github", "monokai".
+    highlight=false
+    topmenu="categories"
+    imageurl = "https://s3-us-west-2.amazonaws.com/artil/images"
