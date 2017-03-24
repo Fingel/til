@@ -11,3 +11,7 @@ pygmentsstyle = "tango"
     highlight=false
     topmenu="categories"
     imageurl = "https://s3-us-west-2.amazonaws.com/artil/images"
+[author]
+    name = "Austin Riba"
+    gaID = "UA-92686537-3"
+    github = "Fingel"

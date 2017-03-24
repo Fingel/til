@@ -8,3 +8,6 @@ new:
 
 s3sync:
 	s3cmd sync images/ s3://artil/images/ -P
+
+deploy:
+	git push origin master && git push github master
