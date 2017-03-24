@@ -105,10 +105,9 @@ Images will be stored in s3, not locally. If you write posts from other computer
 you won't need to download all (or any) of the images from previous posts. Bath
 in the glory of your lightweight text only blog.
 
-
-This is a code block:
-
 ## Hugo is Good
 
 I'm happy to have learned how to use the new hot static site generator in
 the neighborhood. I hope it keeps kicking ass well into the future.
+
+You can view the sourcecode for this blog [here](https://github.com/Fingel/til)
