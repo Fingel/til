@@ -1,6 +1,5 @@
 +++
 title = "Santa Barbara Manipulates the Weather"
-draft = "true"
 categories = ["WTF"]
 tags = ["Santa Barbara", "California", "Drought"]
 date = "2017-03-24T15:47:03-07:00"
@@ -11,12 +10,11 @@ during the smalltalk where you ask someone what they do:
 
 "I make it rain."
 
-After a brief moment of hope where you imagine showers of $100 bills, you lean this person
-means it literally. You probably think they're full of shit, right?
+No, not $100 bills. Water, unfortunately.
 
-If this person happens to work for the
+This person probably works for the
 [Santa Barbara County Water Agency](http://cosb.countyofsb.org/pwd/pwwater.aspx?id=2956),
-maybe not. According to their website:
+which, according to their website:
 
 >   The Santa Barbara County Water Agency conducts a weather modification program better known
     as "cloudseeding" to augment rainfall and runoff in watersheds behind the major water
@@ -24,36 +22,50 @@ maybe not. According to their website:
 
 Cloud seeding is the act of "seeding" clouds with agents that augment condensation. This is
 to say, putting stuff (usually Silver Iodine) in clouds that makes water stick together.
-This is done by either flying planes near clouds and shooting rockets at them,
+This is done by either flying planes near clouds and lighting flares,
 or launching mortars into the sky from the ground.
 The idea is that by doing this you can squeeze out a little bit of extra rain you wouldn't normally get.
 
-If this sounds far fetched, it's really not. There are [companies](http://www.weathermodification.com)
-that specialize in providing equipment and services for performing weather modification
-to municipalities around the world.
+{{% figure src="https://s3-us-west-2.amazonaws.com/artil/images/weatherplane.png" caption="A Cessna aircraft loaded with Silver Iodine flares." %}}
 
-Santa Barbara is one of those municipalities.
+Santa Barbara has been performing rain seeding since 1981 in an attempt to augment rainfall in the
+Santa Ynez and Twitchell watersheds. They [cite reaserch](http://cosb.countyofsb.org/uploadedFiles/pwd/Water/WaterAgency/13NGD-00011_FINAL_.pdf)
+mostly from the late 70's/early 80's that show cloud seeding as an effective means of weather modification.
 
-## Santa Barbara's Epic Drought
+This research is fairly hard to back up and is somewhat controversial. Proving in a lab setting that Silver Iodine
+is an effective "freezing nuclei" is not difficult. But how do you prove it in the field? You can't know
+how much if would have rained without seeding, and no two storms are exactly the same, so you can't compare
+them either.
 
-![California drought]({{% imageurl %}}/cadrought.png)
+The lack of hard evidence doesn't stop companies like
+[Weather Modification Inc](http://www.weathermodification.com) from working with municipalities all
+around the North America. WMI's list of services includes rain augmentation, hail reduction and fog
+clearing. They do not appear to be low on clients.
 
-<span class="caption">courtesy of [droughtmonitor.unl.edu](http://droughtmonitor.unl.edu/Home/StateDroughtMonitor.aspx?CA)<span>
+It's not hard to see why Santa Barbara would attempt weather modification. The region is just now
+recovering from a record breaking drought.
 
-Compared to last year, California as a whole is in a much better place
-than it was 12 months ago. Still, there are some orange (drought) areas on
-the map. Santa Barbara is right in the middle of them. Although the region has
-received higher than normal average rainfall, there is still a ways to go before
-breaking even with the last 5 years:
+{{% figure src="https://s3-us-west-2.amazonaws.com/artil/images/cadrought.png" caption="droughtmonitor.unl.edu" %}}
 
+According to an [interview on Scientific American with Arlen Huggins of the Desert Research Institute](https://www.scientificamerican.com/article/cloud-seeding-china-snow/)
+The best time to attempt weather modification is when there is already normal or above normal levels
+of precipitation (we can't create storms out of nothing, yet). That would be Santa Barbara, right now (2017).
+
+<center>
 <table class="pure-table">
     <caption>Santa Barbara Yearly Rainfall</caption>
     <thead><tr><td>Year</td><td>2012</td><td>2013</td><td>2014</td><td>2015</td><td>2016</td><td>2017</td></tr></thead>
     <tbody><tr><td>% Normal Rainfall</td><td>66</td><td>46</td><td>41</td><td>55</td><td>70</td><td>130</td></tr></tbody>
 </table>
+<span class="caption">courtesy of [droughtmonitor.unl.edu](http://droughtmonitor.unl.edu/Home/StateDroughtMonitor.aspx?CA)<span>
+</center>
 
 
 
-Apparently the best time to do cloud seeding is when you have normal levels, or higher-than-normal levels, of precipitation. [1](#1)
+Cloud seeding is not as effective as say, [desalination](http://www.santabarbaraca.gov/gov/depts/pw/resources/system/sources/desalination.asp) (which Santa Barbara is actively pursuing) at producing water.
+It also doesn't work if there is no precipitation at all, like during the periods of severe drought
+the region has been experiencing. However, cloud seeding is cheap compared to the alternatives. Even
+if the research is a little shaky, the (often cited) 20% increase of rainfall makes the attempt well
+worth it.
 
-1: https://www.scientificamerican.com/article/cloud-seeding-china-snow/ "https://www.scientificamerican.com/article/cloud-seeding-china-snow/"
+Keep making it rain, Santa Barbara.
