@@ -2,6 +2,7 @@
 date = "2017-03-29T20:31:38-07:00"
 title = "Numbers Make Way More Sense in Chinese"
 categories = ["misc"]
+tags = ["language", "math", "chinese"]
 
 +++
 
